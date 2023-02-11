@@ -1,6 +1,6 @@
 # Secret Key Generator
 
-<em>Simple secret key generator for password, environment variable, secret keys, and so on. </em>
+<em>Simple secret key generator for password, environment variable, and so on. </em>
 
 ## Tech Stack :books:
 
