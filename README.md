@@ -2,6 +2,7 @@
 
 <em>Simple secret key generator for password, environment variable, and so on. </em>
 
+## Link to the app
 https://secret-key-generator-cd658.firebaseapp.com/
 
 ## Tech Stack :books:
