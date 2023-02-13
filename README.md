@@ -2,6 +2,8 @@
 
 <em>Simple secret key generator for password, environment variable, and so on. </em>
 
+https://secret-key-generator-cd658.firebaseapp.com/
+
 ## Tech Stack :books:
 
 Below is a non-exhaustive list of technologies used throughout the project.
